@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/kcl-lang/kcl-java/workflows/CI/badge.svg)](https://github.com/kcl-lang/kcl-java/actions)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/kcl-lang/kcl-java/blob/main/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fkcl-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fkcl-java?ref=badge_shield)
 
 KCL Java SDK
 
@@ -108,3 +109,7 @@ public class Main {
     }
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fkcl-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fkcl-java?ref=badge_large)
